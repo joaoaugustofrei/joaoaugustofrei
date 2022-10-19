@@ -2,7 +2,7 @@ I’m João Freire, Master in Applied Economics, Data Scientist, and Front-End d
 
 My current interests are Machine Learning, ETL, and data visualization with Python, SQL, and R.
 
-Right now, I am learning HTML, CSS, and JavaScript with the intent of becoming a front-end developer as well.
+Right now, I am learning Ruby on Rails, JavaScript, and React with the intent of becoming a full-stack developer as well.
 
 I would love to colaborate on data science projects, especially concerning machine learning and data visualization.
 
